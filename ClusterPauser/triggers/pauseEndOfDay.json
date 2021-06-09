@@ -1,0 +1,9 @@
+{
+    "name": "pauseEndOfDay",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "30 20 * * *"
+    },
+    "function_name": "pauseCluster",
+    "disabled": false
+}
